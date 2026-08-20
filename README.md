@@ -5,7 +5,7 @@ Our approach involves fine-tuning of an instance of `timm` 21k ImageNet, a PyTor
 The results of our testing are as follows:
 | Dataset | Mean average precision (mAP) | HEAD | HORSE | THRONE | STAR | BULL | EAGLE | SNAKE |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| CORPUS NUMMORUM | 0.824 | 0.911 | 0.886 | 0.831 | 0.829 | 0.828 | 0.756 | 0.730 |
+| GRECO-ROMAN | 0.824 | 0.911 | 0.886 | 0.831 | 0.829 | 0.828 | 0.756 | 0.730 |
 | PELLA | 0.505 | 1.000 |   |   |   |   |   | 0.010 | 
 | BIGR | 0.384 | 0.592 | 1.000 | 0.431 | 0.110 | 0.112 | 0.059 |   |
 | SELEUCID | 0.386 | 0.953 | 0.112 | 0.821 | 0.011 | 0.035 |   |   |
